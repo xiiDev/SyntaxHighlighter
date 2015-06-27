@@ -26,5 +26,6 @@
 <script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushXml.js' type='text/javascript'></script>
 <script language="javascript" type="text/javascript">
 	SyntaxHighlighter.config.bloggerMode = true;
+	SyntaxHighlighter.defaults[&#39;toolbar&#39;] = false;
 	SyntaxHighlighter.all();
 </script>
